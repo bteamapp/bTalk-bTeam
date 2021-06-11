@@ -1,0 +1,13 @@
+|    | |---- |     |     /----\
+|    | |     |     |     |    |
+|----|  ---- |     |     |    |
+|    | |     |     |     |    |
+|    | |---- |---- |---- \----/
+
+      A bTeam's Repository
+  Một kho mã nguồn của bTeam
+-------------------------------
+Đây là Talk, một ứng dụng có thể
+cho phép bạn gọi cho người khác 
+bằng tính năng WebRTC và PeerJS
+P2P
