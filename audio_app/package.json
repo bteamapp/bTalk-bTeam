@@ -1,0 +1,10 @@
+{
+  "name": "bTalk",
+  "version": "1.0.0",
+  "description": "This is bTalk, a application that can allow you to call to other people using WebRTC feature and PeerJS P2P",
+  "main": "server.js",
+  "repository": "https://github.com/dapps-sc/bTalk-bTeam",
+  "author": "bTeam",
+  "license": "bTeam-LINCENSE",
+  "private": false
+}
