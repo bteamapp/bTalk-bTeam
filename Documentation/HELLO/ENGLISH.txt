@@ -6,7 +6,7 @@
 
       A bTeam's Repository
 -------------------------------
-This is bTalk, a application 
+This is bTalk, an application 
 that can allow you to call to
 other people using WebRTC
 feature and PeerJS P2P
