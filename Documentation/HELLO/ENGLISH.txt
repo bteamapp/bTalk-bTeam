@@ -1,0 +1,12 @@
+|    | |---- |     |     /----\
+|    | |     |     |     |    |
+|----|  ---- |     |     |    |
+|    | |     |     |     |    |
+|    | |---- |---- |---- \----/
+
+      A bTeam's Repository
+-------------------------------
+This is bTalk, a application 
+that can allow you to call to
+other people using WebRTC
+feature and PeerJS P2P
